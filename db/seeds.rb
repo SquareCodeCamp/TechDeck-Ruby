@@ -6,6 +6,9 @@
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
 
+Card.delete_all
+Deck.delete_all
+
 data = YAML.load_file('config/decks.yml')
 decks = data['decks']
 
