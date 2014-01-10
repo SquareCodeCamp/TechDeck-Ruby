@@ -1,6 +1,8 @@
 class ApiController < ApplicationController
   def v1
-    x = YAML.load_file('config/decks.yml')
-    render json: x.to_json
+    include_config = {cards: {except: [:created_at, :updated_at]} }
+    decks = Deck.all.as_json({include: include_config, except: [:created_at, :updated_at]})
+    data = {decks: decks}.to_json
+    render json: data
   end
 end
