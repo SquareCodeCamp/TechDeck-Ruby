@@ -15,11 +15,11 @@ decks:
         wiki_link: http://garann.com/
       - name: Rebecca Murphey
         image_url: https://pbs.twimg.com/profile_images/1447727594/IMG_8534.jpg
-        bio: "I am a JavaScript application developer and a frequent speaker on the topic of code organization and best practices at events around the world. I authored the learning site jQuery Fundamentals, contributed to the jQuery Cookbook from O’Reilly Media, served as a technical reviewer for David Herman’s Effective JavaScript, and created the TXJS conference."
+        bio: "I authored the learning site jQuery Fundamentals, contributed to the jQuery Cookbook from O’Reilly Media, served as a technical reviewer for David Herman’s Effective JavaScript, and created the TXJS conference."
         wiki_link: http://rmurphey.com/
       - name: Jessica Lord
         image_url: http://jlord.s3.amazonaws.com/wp-content/uploads/me_goat_blue.png
-        bio: "I am a frontend designer and developer at GitHub. I made my way here via open government development at Code for America, urban design at the City of Boston's Redevelopment Authority and architecture in Atlanta and Georgia Tech. It all makes perfect sense."
+        bio: "I am a frontend designer and developer at GitHub. I made my way here via open government development at Code for America."
         wiki_link: http://jlord.us/
       - name: Bodil Stokke
         image_url: https://pbs.twimg.com/profile_images/378800000563736483/2fdd4774f1a941cdd8cd3b51fa46271a.jpeg
