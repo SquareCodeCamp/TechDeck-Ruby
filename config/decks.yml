@@ -5,6 +5,30 @@ decks:
         image_url: http://women2.com/wp-content/uploads/2013/04/Sheryl-Sandberg.jpg
         bio: 'An American businesswoman. As of August 2013, she is the chief operating officer of Facebook.'
         wiki_link: http://en.wikipedia.org/wiki/Sheryl_Sandberg
+      - name: Sarah Mei
+        image_url: http://www.sarahmei.com/blog/wp-content/uploads/2010/03/sarah-square.jpg
+        bio: 'Ruby developer, rabid pair-programmer, RailsBridge founder, Head of Propaganda at @minifast. These are my short-form rants.'
+        wiki_link: http://www.sarahmei.com/blog/
+      - name: Garann Means
+        image_url: https://pbs.twimg.com/profile_images/416079736649940992/LBotcFjg.jpeg
+        bio: 'JavaScript developer, unreliable narrator, friend to all cheeses.'
+        wiki_link: http://garann.com/
+      - name: Rebecca Murphey
+        image_url: https://pbs.twimg.com/profile_images/1447727594/IMG_8534.jpg
+        bio: "I am a JavaScript application developer and a frequent speaker on the topic of code organization and best practices at events around the world. I authored the learning site jQuery Fundamentals, contributed to the jQuery Cookbook from O’Reilly Media, served as a technical reviewer for David Herman’s Effective JavaScript, and created the TXJS conference."
+        wiki_link: http://rmurphey.com/
+      - name: Jessica Lord
+        image_url: http://jlord.s3.amazonaws.com/wp-content/uploads/me_goat_blue.png
+        bio: "I am a frontend designer and developer at GitHub. I made my way here via open government development at Code for America, urban design at the City of Boston's Redevelopment Authority and architecture in Atlanta and Georgia Tech. It all makes perfect sense."
+        wiki_link: http://jlord.us/
+      - name: Bodil Stokke
+        image_url: https://pbs.twimg.com/profile_images/378800000563736483/2fdd4774f1a941cdd8cd3b51fa46271a.jpeg
+        bio: 'PLT. Church of Emacs. Developer @FutureAdLabs. @web_rebels organiser. Pirate Partyist. Team Pinkie.'
+        wiki_link: http://bodil.org/
+      - name: Angelina Fabbro
+        image_url: https://pbs.twimg.com/profile_images/1697997711/grainyme.jpg
+        bio: "Firefox OS technical this-and-that for @mozilla. Writes code/writes words about code/speaks about code. Love: web components + mobile + devtools"
+        wiki_link: http://realityhacking.net/
       - name: Marissa Mayer
         image_url: https://pbs.twimg.com/profile_images/323982494/marissa_new4.jpg
         bio: 'Has been President and CEO of Yahoo! since July 2012. Previously, she was a long-time executive and key spokesperson for Google.'
