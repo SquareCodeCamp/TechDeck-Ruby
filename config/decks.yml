@@ -1,5 +1,5 @@
 decks:
-	- name: Women in Tech
+  - name: Women in Tech
     cards:
       - id: 1
         name: Sheryl Sandberg
