@@ -17,6 +17,10 @@ decks:
         image_url: http://cdn.paymentssource.com/media/newspics/friar_sarah_card.jpg
         bio: 'Ex-SalesForce, current Square CFO.'
         wiki_link: http://www.crunchbase.com/person/sarah-friar
+        - name: Grace Hopper
+        image_url: http://upload.wikimedia.org/wikipedia/commons/a/ad/Commodore_Grace_M._Hopper%2C_USN_%28covered%29.jpg
+        bio: 'A pioneer in the field, was one of the first programmers of the Harvard Mark I computer, developed the first compiler for a computer programming language.'
+        wiki_link: http://en.wikipedia.org/wiki/Grace_Hopper
   - name: Code Camp Class of 2014
     cards:
       - name: Kacey Coughlin
