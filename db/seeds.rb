@@ -5,3 +5,14 @@
 #
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
+
+data = YAML.load_file('config/decks.yml')
+decks = data['decks']
+
+decks.each do |deck|
+  d = Deck.create({name: deck['name']})
+
+  deck['cards'].each do |card_data|
+    d.cards.create(card_data)
+  end
+end
