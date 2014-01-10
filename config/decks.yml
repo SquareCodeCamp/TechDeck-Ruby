@@ -17,6 +17,18 @@ decks:
         image_url: http://cdn.paymentssource.com/media/newspics/friar_sarah_card.jpg
         bio: 'Ex-SalesForce, current Square CFO.'
         wiki_link: http://www.crunchbase.com/person/sarah-friar
+      - name: Jennifer Arguello
+        image_url: https://pbs.twimg.com/profile_images/2645587037/b375b481a056c2c5d60181eeb7ea1e6a.jpeg
+        bio: Ex-Mozilla and now at a VC. Passionate about bringing more Latinas into tech.
+        wiki_link: http://www.jenniferarguello.com/
+      - name: Lucy Sanders
+        image_url: http://research.microsoft.com/en-us/collaboration/focus/cs/sandersl.jpg      
+        bio: "CEO and co-founder, National Center for Women & Information Technology."
+        wiki_link: http://research.microsoft.com/en-us/collaboration/focus/cs/talent_sanders.aspx
+      - name: Andrea Lo
+        image_url: http://blogs-images.forbes.com/women2/files/2012/12/125x125_Andrea_Lo9.jpg      
+        bio: "Entrepreneur best known for co-founding the children's fundraising website Piggybackr."
+        wiki_link: http://en.wikipedia.org/wiki/Andrea_Lo
   - name: Code Camp Class of 2014
     cards:
       - name: Kacey Coughlin
