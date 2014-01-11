@@ -1,6 +1,10 @@
 decks:
   - name: Women in Tech
     cards:
+      - name: Sarah Friar
+        image_url: http://cdn.paymentssource.com/media/newspics/friar_sarah_card.jpg
+        bio: 'Ex-SalesForce, current Square CFO.'
+        wiki_link: http://www.crunchbase.com/person/sarah-friar
       - name: Sheryl Sandberg
         image_url: http://women2.com/wp-content/uploads/2013/04/Sheryl-Sandberg.jpg
         bio: 'An American businesswoman. As of August 2013, she is the chief operating officer of Facebook.'
@@ -15,7 +19,7 @@ decks:
         wiki_link: http://garann.com/
       - name: Rebecca Murphey
         image_url: https://pbs.twimg.com/profile_images/1447727594/IMG_8534.jpg
-        bio: "I authored the learning site jQuery Fundamentals, contributed to the jQuery Cookbook from O’Reilly Media, served as a technical reviewer for David Herman’s Effective JavaScript, and created the TXJS conference."
+        bio: "I authored the learning site jQuery Fundamentals, contributed to the jQuery Cookbook from O’Reilly Media, served as a technical reviewer for David Herman’s Effective JavaScript."
         wiki_link: http://rmurphey.com/
       - name: Jessica Lord
         image_url: http://jlord.s3.amazonaws.com/wp-content/uploads/me_goat_blue.png
@@ -37,10 +41,6 @@ decks:
         image_url: http://www.blackgirlscode.com/uploads/7/1/1/6/7116907/6095155.png
         bio: 'Founder Black Girls Code, Engineer~Social Entreprenuer.'
         wiki_link: http://about.me/kimberlybryant
-      - name: Sarah Friar
-        image_url: http://cdn.paymentssource.com/media/newspics/friar_sarah_card.jpg
-        bio: 'Ex-SalesForce, current Square CFO.'
-        wiki_link: http://www.crunchbase.com/person/sarah-friar
       - name: Jennifer Arguello
         image_url: https://pbs.twimg.com/profile_images/2645587037/b375b481a056c2c5d60181eeb7ea1e6a.jpeg
         bio: Ex-Mozilla and now at a VC. Passionate about bringing more Latinas into tech.
@@ -67,3 +67,51 @@ decks:
         image_url: https://pbs.twimg.com/profile_images/378800000614803375/ae58eec9cfc99fac2cbbf52ebab2fe81.jpeg
         bio: "Completely one of a kind nicknamed Pegasus/ Unicorn. Lover of good people,great music, and all things UK. Coolest person you'll ever meet and biggest nerd that you'll know."
         wiki_link: https://twitter.com/gkimbwala
+      - name: Sheena Nie
+        image_url: http://m.c.lnkd.licdn.com/mpr/pub/image-De9dqIqb1i7TAuhWw6pFwDbY6ItYcPX8aeiDS7hq676QzbGdDe9DF55b6sgccPCvqYcC/sheena-xinkun-nie.jpg
+        bio: "China → Kentucky → MIT '16. Passionate about robots, startups, and education. Enjoys hacking both hardware and software."
+        wiki_link:
+      - name: Ashley Smith
+        image_url: http://wtp.mit.edu/eecs/images/2012Staff/AshleySmith2012.jpg
+        bio: "Originally from Ohio, who loves restaurant week, steak, coloring with crayons, coding, popping bubble wrap,and Pi Phi."
+        wiki_link:
+      - name: Gal Sharir
+        image_url: http://m.c.lnkd.licdn.com/mpr/pub/image-qkKwridBoE_PfXZlnrrCH9mx9T7pRuQt8kkhHSQX9Wh10biDqkKhycMB9qeiphcjQQb2/gal-sharir.jpg
+        bio: "Exchange student @ UPenn. Prior to college, 4 yrs in the Israeli Defense Force. Enjoys learning about new cultures & beingoutdoors."
+        wiki_link:
+      - name: Shana Yu
+        image_url:
+        bio: "Loves technology, typography, and design that delights. Geeks out over modern art, sci-ﬁ,Latin, and jazz."
+        wiki_link:
+      - name: Sruti Modeku!y
+        image_url:
+        bio: "Sophomore ECE major at Carnegie Mellon. Lives for robotics, technology& sharing her passions w/ others.Loves music, reading,traveling & seeking new adventures."
+        wiki_link:
+      - name: Tali Marcus
+        image_url:
+        bio: "Kid-lover, athlete, sister, and Downtown Abbey wannabe. I am interested in using Psychology to create a better user experience in mywork."
+        wiki_link:
+      - name: Hannah Kerner
+        image_url:
+        bio: 
+        wiki_link:
+      - name:
+        image_url:
+        bio:
+        wiki_link:
+      - name:
+        image_url:
+        bio:
+        wiki_link:
+      - name:
+        image_url:
+        bio:
+        wiki_link:
+      - name:
+        image_url:
+        bio:
+        wiki_link:
+      - name:
+        image_url:
+        bio:
+        wiki_link:         
